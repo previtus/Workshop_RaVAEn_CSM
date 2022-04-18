@@ -14,3 +14,26 @@ Part of the **Digital Innovation Season 2022** ([web](https://www.arts.ac.uk/col
 
 ---
 
+## Example uses:
+
+These are just a few example uses, there are plenty more. Use your imagination, you can access data from anywhere on the entire planet at any time _(if there was a satellite in orbit and clear view without clouds - however even if not, you can get the closest date to it)_.
+
+**Finding yourself:**
+
+![London](visuals/example00_londondemo.jpeg)
+
+**Current events / finding evidence:** [details](https://www.rferl.org/a/satellite-maxar-russia-ukraine-invasion-kyiv-photographs/31749698.html)
+
+![Ukraine](visuals/example01_ukrainebombing.jpeg)
+
+**Crop health monitoring:**
+
+![Crops](visuals/example02_circularfarms.jpeg)
+
+**Mining site monitoring:**
+
+![Mining](visuals/example04_miningsite.jpeg)
+
+**Disaster events tracking, analysis or even prediction:**
+
+![Flood](visuals/example05_flood.jpeg)
