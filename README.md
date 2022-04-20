@@ -14,6 +14,14 @@ Part of the **Digital Innovation Season 2022** ([web](https://www.arts.ac.uk/col
 
 ---
 
+## Notebooks:
+
+### Part 1, 2 - <a href="https://colab.research.google.com/github/previtus/Workshop_RaVAEn_CSM/blob/master/notebooks/Part_1%2C2_Sentinel2DownloadAndExplore.ipynb">Sentinel-2 data download and explore <img src="https://colab.research.google.com/assets/colab-badge.svg"></a>
+
+### Part 3 - <a href="https://colab.research.google.com/github/previtus/Workshop_RaVAEn_CSM/blob/master/notebooks/Part_3_ChangeDetection_RaVAEn.ipynb">Change Detection and analysis <img src="https://colab.research.google.com/assets/colab-badge.svg"></a>
+
+---
+
 ## Example uses:
 
 These are just a few example uses, there are plenty more. Use your imagination, you can access data from anywhere on the entire planet at any time _(if there was a satellite in orbit and clear view without clouds - however even if not, you can get the closest date to it)_.
